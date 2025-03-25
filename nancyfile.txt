@@ -1,1 +1,5 @@
 This is a file from Nancy.
+
+We are trying to create conflicts.
+
+See what will happen.
